@@ -18,3 +18,4 @@
 
 4. Cloud Engineering - AWS
 5. PROJECT: Realtime Web Application using CI/CD with no Manual Intervention.
+6. Complete the course  by March 31st.
