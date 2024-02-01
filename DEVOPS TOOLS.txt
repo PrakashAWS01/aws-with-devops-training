@@ -1,6 +1,6 @@
 1. INTRODUCTION TO DEVOPS
 
-2. OPERATING SYSTEM(LINUX) & SHELL SCRIPT
+2. OPERATING SYSTEM(LINUX) 
 
 3. DEVOPS TOOLS:
 
@@ -14,6 +14,7 @@
      h. Docker - Containerized
      i. Kubernetes - Containerized
      j. Terraform 
+     k. Shell Scripting
 
 4. Cloud Engineering - AWS
 5. PROJECT: Realtime Web Application using CI/CD with no Manual Intervention.
